@@ -31,12 +31,12 @@
 </template>
 
 <script>
-	export default {
+	export default {  
 		name: 'HelloWorld',
 		props: {
 			msg: {
 				type: String,
-				default: "welcome!!!"
+				default: "welcome!!!@@!!!"
 			}
 		},
 		methods: {
