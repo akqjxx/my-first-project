@@ -36,7 +36,7 @@
 		props: {
 			msg: {
 				type: String,
-				default: "welcome!!!@@!!!"
+				default: "welcome!!!@@     !!!"
 			}
 		},
 		methods: {
